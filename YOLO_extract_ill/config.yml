@@ -1,0 +1,4 @@
+train: '/Users/albina/data/decorient_data/YOLO_extract_ill/dataset_extract/data/train'
+val: '/Users/albina/data/decorient_data/YOLO_extract_ill/dataset_extract/data/val'
+nc: 1
+names: ['illustration']
